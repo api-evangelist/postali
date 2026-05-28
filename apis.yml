@@ -1,0 +1,32 @@
+aid: postali
+name: Postali
+description: "Mexico Zip Codes API"
+url: https://postali.app/api
+specificationVersion: '0.20'
+created: '2026-05-28'
+modified: '2026-05-28'
+x-source: public-apis/public-apis
+x-category: "Geocoding"
+x-tier: 3
+x-tier-reason: bulk-registered-from-public-apis
+tags:
+  - Geocoding
+  - Public APIs
+apis:
+  - name: Postali
+    description: "Mexico Zip Codes API"
+    humanURL: https://postali.app/api
+    baseURL: https://postali.app/api
+    tags:
+      - Geocoding
+    properties:
+      - type: Documentation
+        url: https://postali.app/api
+common:
+  - type: Website
+    url: https://postali.app/api
+  - type: PublicAPIsListing
+    url: https://github.com/public-apis/public-apis
+maintainers:
+  - FN: Kin Lane
+    email: kin@apievangelist.com
