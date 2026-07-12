@@ -23,6 +23,8 @@ apis:
       - type: Documentation
         url: https://postali.app/api
 common:
+  - type: DomainSecurity
+    url: security/postali-domain-security.yml
   - type: Website
     url: https://postali.app/api
   - type: PublicAPIsListing
