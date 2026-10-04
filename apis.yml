@@ -39,7 +39,6 @@ apis:
   - name: Postali
     description: "Mexico Zip Codes API"
     humanURL: https://postali.app/api
-    baseURL: https://postali.app/api
     tags:
       - Geocoding
     properties:
